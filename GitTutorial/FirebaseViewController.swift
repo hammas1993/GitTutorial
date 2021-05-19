@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FirebaseViewController.swift
 //  GitTutorial
 //
 //  Created by Hammas Naik on 19/05/2021.
@@ -7,16 +7,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FirebaseViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        
-        print("hammas")
-        print("firebase")
-    }
 
+        // Do any additional setup after loading the view.
+    }
+    
+
+   
 
 }
-
