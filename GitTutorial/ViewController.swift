@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         
         print("hammas")
         print("firebase")
+        
+        print("fireabse completed")
+        print("2nd commit")
     }
 
 
